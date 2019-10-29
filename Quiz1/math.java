@@ -16,7 +16,8 @@ public class math
     public math()
     {
         // initialise instance variables
-        x = 0;
+        x = 5;
+        // sosjnsiguwefowgnwguerhgw3op
     }
 
     /**
