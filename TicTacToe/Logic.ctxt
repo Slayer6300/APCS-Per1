@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Logic
+comment1.params=rowMove\ colMove\ move\ font\ square\ startingPlayer
+comment1.target=void\ getMove(int,\ int,\ int,\ java.awt.Font,\ javax.swing.JButton[][],\ java.lang.String)
+comment2.params=pnlSouth\ pnlPlayingField
+comment2.target=void\ showGame(javax.swing.JPanel,\ javax.swing.JPanel)
+comment3.params=pnlSouth\ pnlTop\ pnlNewGame\ pnlPlayingField\ pnlBottom\ radioPanel
+comment3.target=void\ clearPanelSouth(javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel)
+comment4.params=letter\ real2\ l\ rows\ column
+comment4.target=boolean\ ifWinRows(java.lang.String,\ java.lang.String[][],\ int,\ int,\ int)
+comment5.params=letter\ real2\ l\ rows\ column
+comment5.target=boolean\ ifWinCols(java.lang.String,\ java.lang.String[][],\ int,\ int,\ int)
+comment6.params=letter\ real2\ l\ rows\ column
+comment6.target=boolean\ ifWinDiag(java.lang.String,\ java.lang.String[][],\ int,\ int,\ int)
+numComments=7
